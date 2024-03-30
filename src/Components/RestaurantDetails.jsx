@@ -1,4 +1,6 @@
 import React from 'react';
+import RestaurantCard from './RestaurantCard';
+import RestaurantList from './RestaurantList';
 
 const RestaurantDetails = ({ restaurant }) => {
 return (

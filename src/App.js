@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './App.css'; 
 import RestaurantList from './Components/RestaurantList';
 import RestaurantForm from './Components/RestaurantForm';
+import RestaurantDetails from './Components/RestaurantDetails';
 
 function App() {
 const [restaurants, setRestaurants] = useState([  {
@@ -65,6 +66,7 @@ return (
 <RestaurantForm addRestaurant={addRestaurant} />
 {/* <RestaurantList restaurants={restaurantData} onDelete={deleteRestaurantData} /> */}
 <RestaurantList restaurants={restaurants} onDelete={deleteRestaurant} />
+{/* <RestaurantDetails/> */}
 </div>
 </div>
 );
