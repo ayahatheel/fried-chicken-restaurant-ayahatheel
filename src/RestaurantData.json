@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Fried Chicken",
+    "location": "Baghdad",
+    "rating": 4.5,
+    "img": "fried_chicken_baghdad_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Shamsani",
+    "location": "Baghdad",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "KFC",
+    "location": "Baghdad",
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Buffalo Wings & Rings",
+    "location": "Baghdad",
+    "rating": 4.6
+  }
+  ]
+  
+  
